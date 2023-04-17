@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
+  text-align: left;
+  font-size: 20px;
+  color: #628395
+}
+
+
+a, a:link {color: #black; }
+a:visited, {color: #51d6ff; }
+a:hover, {color: #37ff8b; } 
+a:active {color: #a06b9a; }
+{text-decoration: none;}
+
+
+body {
+  background-image: url(images/background/white-brick-wall.jpg);
+  background-size: 100%;
+  margin: 40px;
+}
+
+
+main {
+  margin: 10%;
+}
+
+body {
+  background-color: #cf995f
+}
+
+h1 {
+  font-size: 80px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  border-top: 0px;
+  border-bottom: 0px;
+}
+
+h2 {
+  font-size: 30px;
+  padding-top: 40px;
+}
+
+h3 {
+  padding-top: 20px;
+}
+
+
+.selfie{
+  width: 50%;
+  height: 50%;
+  border-radius: 40%;
+  padding: 20px;
+}
+
+footer {
+  font-size: 10px;
+}
