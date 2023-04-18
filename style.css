@@ -6,21 +6,21 @@
   color: #628395
 }
 
-
+/*for the all the links on the page*/
 a, a:link {color: #black; }
 a:visited, {color: #51d6ff; }
 a:hover, {color: #37ff8b; } 
 a:active {color: #a06b9a; }
 {text-decoration: none;}
 
-
+/*sets the background image to the screen it is on*/
 body {
   background-image: 
   background-size: 100%;
   margin: 40px;
 }
 
-
+/*made in order of elements as they appear*/
 main {
   margin: 10%;
 }
@@ -46,8 +46,8 @@ h3 {
   padding-top: 20px;
 }
 
-
-.selfie{
+/*this is for self-portrait*/
+.selfie {
   width: 40%;
   height: 40%;
   border-radius: 30%;
